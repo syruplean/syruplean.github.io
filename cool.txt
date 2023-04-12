@@ -1,0 +1,40 @@
+*Free access to scientific papers: 
+sci-hub.se (mirrors: sci-hub.ru, sci-hub.st)
+
+*Spam throwaway email addresses: 
+tempr.email
+
+*Username lookup: 
+blackbird-osint.herokuapp.com
+
+*Buy domains with monero & ownership proxy:
+njal.la
+
+*Cool web hosts (monero accepted):
+flokinet.is
+(cockbox.org)
+
+*Privacy conscious email providers:
+riseup.net
+(cock.li)
+(protonmail.com)
+
+*Shodan but free lol (15 requests/day, use tor relays to bypass):
+search.censys.io
+
+*Video editing in browser:
+vidmix.app
+
+*Browser-based Photoshop clone:
+photopea.com
+
+*Youtube proxy:
+invidious.flokinet.to (moar instances available here: invidious.io/instances/)
+piped.video (alt: piped.kavin.rocks)
+
+*Twitter proxy:
+nitter.net (alt: nitter.fdn.fr)
+
+*Reddit proxy:
+teddit.net (instances list: codeberg.org/teddit/teddit)
+
